@@ -1,4 +1,4 @@
-## Hi there 👋
+## Minicurso SCTI - GitHub na prática: nem só de linha de comando vivem quem programa 👋
 
 <!--
 **pedrolcrodrigues/pedrolcrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
